@@ -24,7 +24,7 @@ This project is a currency converter web application built with Vite, React, and
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone [[repository_url](https://github.com/TusharPachouri/ExchangeEase.git)]`
+1. Clone the repository: `git clone https://github.com/TusharPachouri/ExchangeEase.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
